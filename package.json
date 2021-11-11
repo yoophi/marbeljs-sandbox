@@ -5,6 +5,9 @@
   "repository": "git@github.com:yoophi/marblejs-sandbox.git",
   "author": "Pyunghyuk Yoo <yoophi@gmail.com>",
   "license": "MIT",
+  "scripts": {
+    "start": "ts-node ./src/index.ts"
+  },
   "dependencies": {
     "@marblejs/core": "^4.0.1",
     "@marblejs/http": "^4.0.1",
