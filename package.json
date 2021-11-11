@@ -1,0 +1,14 @@
+{
+  "name": "marblejs-sandbox",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:yoophi/marblejs-sandbox.git",
+  "author": "Pyunghyuk Yoo <yoophi@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@marblejs/core": "^4.0.1",
+    "@marblejs/http": "^4.0.1",
+    "fp-ts": "^2.11.5",
+    "rxjs": "^7.4.0"
+  }
+}
